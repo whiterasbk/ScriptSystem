@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="150.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/main_top_icon" android:layout_width="75.0dip" android:layout_height="75.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:src="@drawable/icon" android:layout_centerVertical="true" />
+            <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:id="@id/main_top_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="JavaScriptSystem" android:layout_toRightOf="@id/main_top_icon" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ListView android:id="@id/main_menu_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textAlignment="gravity" />
+</LinearLayout>

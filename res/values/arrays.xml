@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="dialog_script_project_icons">
+		<item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+        <item>@drawable/ali_xixi</item>
+	</array>
+    <string-array name="dialog_script_project_options">
+        <item>运行这个js</item>
+        <item>后台运行这个js</item>
+        <item>在控制台运行这个js</item>
+        <item>查看关于此js的信息</item>
+        <item>运行这个js项目</item>
+        <item>后台运行这个js项目</item>
+        <item>在控制台运行这个js项目</item>
+        <item>查看关于此js项目的信息</item>
+    </string-array>
+    <string-array name="dialog_script_package_options">
+        <item>运行这个spk</item>
+        <item>安装这个spk</item>
+        <item>后台运行这个spk</item>
+        <item>在控制台运行这个spk</item>
+        <item>查看关于此spk的信息</item>
+    </string-array>
+    <array name="menu_icons">
+        <item>@drawable/pop_purple</item>
+        <item>@drawable/pop_purple</item>
+        <item>@drawable/pop_purple</item>
+        <item>@drawable/pop_purple</item>
+        <item>@drawable/pop_purple</item>
+        <item>@drawable/pop_purple</item>
+    </array>
+	<string-array name="menu_texts">
+		<item>关于</item>
+        <item>运行</item>
+        <item>作者</item>
+        <item>关于</item>
+        <item>帮助</item>
+        <item>设置</item>
+	</string-array>	
+</resources>

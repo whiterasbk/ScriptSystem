@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScriptSystem</string>
+    <string name="yes">是的</string>
+    <string name="no_thanks">不，谢谢</string>
+    <string name="cancel">取消</string>
+    <string name="certain">确定</string>
+    <string name="no">不</string>
+    <string name="dialog_script_option_title">你想对这个文件做什么?</string>
+    <string name="dialog_script_option_neutral_button">取消</string>
+    <string name="script_console_print_head_string">Script:</string>
+</resources>

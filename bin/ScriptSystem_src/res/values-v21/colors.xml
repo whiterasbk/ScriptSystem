@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0f00</color>
+    <color name="yellow">#fff6ff00</color>
+    <color name="grey">#ffa1a1a1</color>
+    <color name="blue">#ff06abff</color>
+    <color name="green">#ff00ff0f</color>
+    <color name="purple">#ffe700ff</color>
+    <color name="pink">#ffff02bb</color>
+    <color name="brown">#ff9b1000</color>
+    <color name="white">#ffffffff</color>
+    <color name="orange">#ffff8700</color>
+</resources>

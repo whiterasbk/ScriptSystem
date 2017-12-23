@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:orientation="horizontal">
+
+	<ScrollView
+		android:layout_height="match_parent"
+		android:layout_width="match_parent">
+
+		<HorizontalScrollView
+			android:layout_height="match_parent"
+			android:layout_width="match_parent">
+
+			
+
+				<whiter.script.view.ConsoleView
+					android:layout_height="match_parent"
+					android:layout_width="match_parent"
+					android:gravity="top"
+					android:ems="100"
+					android:lines="100"
+                    android:textSize="12sp"
+					android:id="@+id/console_layout_consoleview"/>
+
+
+		</HorizontalScrollView>
+
+	</ScrollView>
+
+</LinearLayout>
+

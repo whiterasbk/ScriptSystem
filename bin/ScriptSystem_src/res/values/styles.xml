@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppLightTheme" parent="@android:style/Theme.Holo.Light" />
+    <style name="AppDarkTheme" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+    <style name="LogoActivityTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen" />
+    <style name="MainActivityTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MainActivityActionBar</item>
+    </style>
+    <style name="MainActivityActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/action_background</item>
+    </style>
+</resources>

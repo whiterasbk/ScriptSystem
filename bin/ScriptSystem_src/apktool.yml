@@ -1,0 +1,16 @@
+version: 2.0.3-9402bd-SNAPSHOT
+apkFileName: ScriptSystem.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  forced-package-id: '127'
+sharedLibrary: false
+unknownFiles:
+  LICENSE.txt: '8'
+  org/mozilla/javascript/resources/Messages.properties: '8'
+  org/mozilla/javascript/resources/Messages_fr.properties: '8'
+  org/mozilla/javascript/tools/resources/Messages.properties: '8'
+doNotCompress:
+- arsc

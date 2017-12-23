@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/background_7" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="切换菜单" android:onClick="toggleMenu" />
+    <GridView android:id="@id/main_content_layout_gridview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

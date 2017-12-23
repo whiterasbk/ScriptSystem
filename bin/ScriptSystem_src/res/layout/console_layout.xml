@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <HorizontalScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <whiter.script.view.ConsoleView android:textSize="12.0sp" android:gravity="top" android:id="@id/console_layout_consoleview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:lines="100" android:ems="100" />
+        </HorizontalScrollView>
+    </ScrollView>
+</LinearLayout>
